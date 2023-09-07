@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Satyam6767/Crypto_Coin.git/static/css/main.1a9a7a29.css",
+    "main.js": "/Satyam6767/Crypto_Coin.git/static/js/main.b25ecc11.js",
+    "index.html": "/Satyam6767/Crypto_Coin.git/index.html",
+    "main.1a9a7a29.css.map": "/Satyam6767/Crypto_Coin.git/static/css/main.1a9a7a29.css.map",
+    "main.b25ecc11.js.map": "/Satyam6767/Crypto_Coin.git/static/js/main.b25ecc11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.b25ecc11.js"
+  ]
+}
